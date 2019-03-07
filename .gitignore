@@ -2,6 +2,7 @@
 
 # the webpack bundle in dist's directory
 dist/*.js
+dist/*.png
 
 # dependencies
 /node_modules
